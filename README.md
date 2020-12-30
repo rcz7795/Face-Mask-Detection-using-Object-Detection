@@ -1,4 +1,4 @@
-# Face-Mask-Detection-using-Object Detection
+# Face-Mask-Detection-using-Object-Detection
 
 ![CV](https://img.shields.io/badge/CV-Object_Detection-blue.svg) 
 
@@ -152,7 +152,7 @@ Some of the test images are given below.
 ![test](Snips/2.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 We have developed a model that can depict whether a person has worn a mask or not.
 
